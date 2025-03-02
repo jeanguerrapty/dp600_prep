@@ -1,0 +1,2 @@
+[0228/152836.912:WARNING:resource_util.cc(99)] Please customize CefSettings.root_cache_path for your application. Use of the default value may lead to unintended process singleton behavior.
+[0228/153100.771:WARNING:resource_util.cc(99)] Please customize CefSettings.root_cache_path for your application. Use of the default value may lead to unintended process singleton behavior.
